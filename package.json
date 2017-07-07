@@ -1,0 +1,26 @@
+{
+  "name": "simple_express_server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HongzeZhao/SimpleExpressServer.git"
+  },
+  "keywords": [
+    "node.js",
+    "express"
+  ],
+  "author": "honze",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HongzeZhao/SimpleExpressServer/issues"
+  },
+  "homepage": "https://github.com/HongzeZhao/SimpleExpressServer#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
